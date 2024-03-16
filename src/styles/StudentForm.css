@@ -1,0 +1,72 @@
+.form-container{
+    margin-top: 5.5rem;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+.form-container form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+label{
+    display: inline-block;
+    width: 120px;
+    margin: 10px 0;
+}
+.label-bold{
+    font-size: 18px;
+    font-weight: bolder;
+}
+.input-mg input{
+    border-color: rgb(116, 113, 113);
+    border-radius: 4px;
+    height: 2.2rem;
+    width: 70%;
+    padding: 12px 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 2px solid #555;
+  }
+.input-gender input{
+    border: none;
+    margin-right: 6px;
+}
+.input-skills input{
+    border: none;
+    margin-right: 6px;
+}
+.action-btn{
+    margin-top: 6px;
+}
+.enroll-btn{
+    border: none;
+    background-color: rgb(90, 135, 204);
+    color: white;
+    padding: 0.8rem;
+    border-radius: 4px;
+    margin-right: 2rem;
+    margin-top: 20px;
+    width: 8rem;
+    min-width: fit-content;
+    font-size: 15px;
+
+}
+.clear-btn{
+    border: none;
+    background-color: rgb(204, 90, 90);
+    color: white;
+    padding: 0.8rem;
+    border-radius: 4px;
+    margin-right: 2rem;
+    margin-top: 20px;
+    width: 8rem;
+    min-width: fit-content;
+    font-size: 15px;
+
+}

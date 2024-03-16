@@ -1,0 +1,33 @@
+const obj=[{
+    name:"oinef",
+    email:"onr",
+    website:"obnf",
+    imagelink:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c754e0f7-221e-4859-9314-9832aaa55c0f/dcwxfw8-fb785406-b3d6-4518-81fd-a6a680a595b8.png/v1/fill/w_349,h_381,q_80,strp/toon_link_doodle_2_by_ayayyuki_dcwxfw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgxIiwicGF0aCI6IlwvZlwvYzc1NGUwZjctMjIxZS00ODU5LTkzMTQtOTgzMmFhYTU1YzBmXC9kY3d4Znc4LWZiNzg1NDA2LWIzZDYtNDUxOC04MWZkLWE2YTY4MGE1OTViOC5wbmciLCJ3aWR0aCI6Ijw9MzQ5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vqb7lCec4VckK9Q87Hl7eXESgzNJPZYdzh2cLyTJSMs",
+    gender:"M",
+    skills:["uibd","oinf","doid"],
+},
+{
+    name:"oinef",
+    email:"onr",
+    website:"obnf",
+    imagelink:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c754e0f7-221e-4859-9314-9832aaa55c0f/dcwxfw8-fb785406-b3d6-4518-81fd-a6a680a595b8.png/v1/fill/w_349,h_381,q_80,strp/toon_link_doodle_2_by_ayayyuki_dcwxfw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgxIiwicGF0aCI6IlwvZlwvYzc1NGUwZjctMjIxZS00ODU5LTkzMTQtOTgzMmFhYTU1YzBmXC9kY3d4Znc4LWZiNzg1NDA2LWIzZDYtNDUxOC04MWZkLWE2YTY4MGE1OTViOC5wbmciLCJ3aWR0aCI6Ijw9MzQ5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vqb7lCec4VckK9Q87Hl7eXESgzNJPZYdzh2cLyTJSMs",
+    gender:"M",
+    skills:["uibd","oinf","doid"],
+},
+{
+    name:"oinef",
+    email:"onr",
+    website:"obnf",
+    imagelink:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c754e0f7-221e-4859-9314-9832aaa55c0f/dcwxfw8-fb785406-b3d6-4518-81fd-a6a680a595b8.png/v1/fill/w_349,h_381,q_80,strp/toon_link_doodle_2_by_ayayyuki_dcwxfw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgxIiwicGF0aCI6IlwvZlwvYzc1NGUwZjctMjIxZS00ODU5LTkzMTQtOTgzMmFhYTU1YzBmXC9kY3d4Znc4LWZiNzg1NDA2LWIzZDYtNDUxOC04MWZkLWE2YTY4MGE1OTViOC5wbmciLCJ3aWR0aCI6Ijw9MzQ5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vqb7lCec4VckK9Q87Hl7eXESgzNJPZYdzh2cLyTJSMs",
+    gender:"M",
+    skills:["uibd","oinf","doid"],
+},
+{
+    name:"oinef",
+    email:"onr",
+    website:"obnf",
+    imagelink:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c754e0f7-221e-4859-9314-9832aaa55c0f/dcwxfw8-fb785406-b3d6-4518-81fd-a6a680a595b8.png/v1/fill/w_349,h_381,q_80,strp/toon_link_doodle_2_by_ayayyuki_dcwxfw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgxIiwicGF0aCI6IlwvZlwvYzc1NGUwZjctMjIxZS00ODU5LTkzMTQtOTgzMmFhYTU1YzBmXC9kY3d4Znc4LWZiNzg1NDA2LWIzZDYtNDUxOC04MWZkLWE2YTY4MGE1OTViOC5wbmciLCJ3aWR0aCI6Ijw9MzQ5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Vqb7lCec4VckK9Q87Hl7eXESgzNJPZYdzh2cLyTJSMs",
+    gender:"M",
+    skills:["uibd","oinf","doid"],
+}]
+export default obj;

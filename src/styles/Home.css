@@ -1,0 +1,28 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    height: 100%;
+    justify-content: space-between;
+}
+.home-header{
+    background-color: rgb(44, 124, 124);
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+}
+.home-header p{
+    color: white;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.home-filler{
+    margin-top: 5rem;
+    display: flex;
+    justify-content:space-around;
+
+}
+.home-partition{
+    border-left: 3px solid rgb(44, 124, 124);
+    height: 100vh;
+}
