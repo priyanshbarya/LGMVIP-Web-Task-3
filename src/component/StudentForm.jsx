@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import "../styles/StudentForm.css";
 const StudentForm = () => {
-  const [name,setName]=useState("")
-  const [email,setemail]=useState("")
-  const [website,setWebsite]=useState("")
-  const [imagelink,setImagelink]=useState("")
-  const [gender,setGender]=useState("")
-  const [skills,setSkills]=useState([]);
+  const [name, setName] = useState("");
+  const [email, setemail] = useState("");
+  const [website, setWebsite] = useState("");
+  const [imagelink, setImagelink] = useState("");
+  const [gender, setGender] = useState("");
+  const [skills, setSkills] = useState([]);
 
   return (
     <div className="form-container">
@@ -39,31 +39,21 @@ const StudentForm = () => {
           <label className="label-bold" htmlFor="">
             Gender:
           </label>
-          <label htmlFor="">
-            <input type="radio" />
-            Male
-          </label>
-          <label htmlFor="">
-            <input type="radio" />
-            Female
-          </label>
+          <input type="radio" />
+          <label htmlFor="">Male</label>
+          <input type="radio" />
+          <label htmlFor="">Female</label>
         </div>
         <div className="input-skills">
           <label className="label-bold" htmlFor="">
             Skills:
           </label>
-          <label>
-            <input type="checkbox" value="Java" />
-            Java
-          </label>
-          <label>
-            <input type="checkbox" value="HTML" />
-            HTML
-          </label>
-          <label>
-            <input type="checkbox" value="CSS" />
-            CSS
-          </label>
+          <input type="checkbox" value="Java" />
+          <label>Java</label>
+          <input type="checkbox" value="HTML" />
+          <label>HTML</label>
+          <input type="checkbox" value="CSS" />
+          <label>CSS</label>
         </div>
         <div className="action-btn">
           <button className="enroll-btn">Enroll Student</button>
