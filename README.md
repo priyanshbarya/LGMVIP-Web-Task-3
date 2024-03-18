@@ -2,6 +2,9 @@
 
 Welcome to the Student Enrollment Form Webpage project! This project allows users to fill in data for student enrollment via a user-friendly form. Users can also view all the enrolled students directly on the webpage. The project is built using ReactJS for the frontend, with HTML, CSS, and JavaScript.
 
+## Link to hosting platform
+    https://lgmvip-web-task-3-phi.vercel.app/
+
 ## Features
 
 - **Student Enrollment Form**: Users can fill in data for student enrollment, including information such as name, age, grade, etc.
