@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Student Enrollment Form Webpage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Student Enrollment Form Webpage project! This project allows users to fill in data for student enrollment via a user-friendly form. Users can also view all the enrolled students directly on the webpage. The project is built using ReactJS for the frontend, with HTML, CSS, and JavaScript.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Student Enrollment Form**: Users can fill in data for student enrollment, including information such as name, age, grade, etc.
+- **Display of Enrolled Students**: All enrolled students are displayed on the webpage for easy access and reference.
+- **Responsive Design**: The webpage is designed to be responsive, ensuring a consistent experience across different devices and screen sizes.
+- **User-Friendly Interface**: The interface is intuitive and easy to use, making it convenient for users to input student data and navigate through the enrolled students' list.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **ReactJS**: A JavaScript library for building user interfaces. ReactJS is used to create the dynamic components and manage the state of the application.
+- **HTML**: Used for structuring the webpage and defining its content.
+- **CSS**: Utilized for styling the webpage and enhancing its visual appeal.
+- **JavaScript**: Used for implementing functionality such as form validation and displaying enrolled students dynamically.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+To run this project locally, follow these steps:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the necessary dependencies.
+4. After installation, run `npm start` to start the development server.
+5. Open your web browser and visit `http://localhost:3000` to view the homepage.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+1. Fill in the student enrollment form with the required details.
+2. Click on the "Submit" button to enroll the student.
+3. The enrolled student will be added to the list of enrolled students displayed on the webpage.
+4. You can view all enrolled students on the webpage and their respective details.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Author: Priyansh Barya*
